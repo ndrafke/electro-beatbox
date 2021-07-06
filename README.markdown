@@ -1,5 +1,5 @@
-# Drum Machine (Electro BeatBox)
+# Electro Beatbox!
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/ndrafke/pen/XWMoypQ](https://codepen.io/ndrafke/pen/XWMoypQ).
+freecodecamp Drum Machine project made using React! CodePen URL: [https://codepen.io/ndrafke/pen/XWMoypQ](https://codepen.io/ndrafke/pen/XWMoypQ).
 
 
